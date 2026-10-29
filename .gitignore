@@ -1,0 +1,5 @@
+# Invoices and buyer data: never commit
+*.pdf
+*.xml
+__pycache__/
+.DS_Store

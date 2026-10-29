@@ -1,0 +1,8 @@
+{
+  "name": "chorus-pro-factures",
+  "version": "0.1.0",
+  "description": "File invoices to French public buyers on Chorus Pro: extract billing references, prepare the invoice, check the Factur-X, fill the filing form, verify delivery.",
+  "author": { "name": "Ruben Hallali", "url": "https://x.com/RubenHallali" },
+  "license": "MIT",
+  "keywords": ["chorus-pro", "factur-x", "e-invoicing", "france", "public-sector", "invoicing", "qonto"]
+}

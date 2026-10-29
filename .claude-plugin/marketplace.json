@@ -1,0 +1,12 @@
+{
+  "name": "chorus-pro-factures",
+  "owner": { "name": "Ruben Hallali" },
+  "description": "File invoices to French public buyers on Chorus Pro.",
+  "plugins": [
+    {
+      "name": "chorus-pro-factures",
+      "source": "./",
+      "description": "File invoices to French public buyers on Chorus Pro: extract billing references, prepare the invoice, check the Factur-X, fill the filing form, verify delivery."
+    }
+  ]
+}
